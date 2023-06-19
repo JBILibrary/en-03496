@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Version="Hindenburg ABC Studio 1.26.2166" Samplerate="44100">
+	<Info Creator="Various" Revision="0" Title="Trends and Issues in Jewish Social Welfare in the United States 1899-1958" MultimediaType="audioNCX" Language="en-us" Publisher="JBI International" Artist="N/A" Producer="xıoɴʏᴄ" Identifier="us-jbi-en-03496" ProducedDate="2018-02-07" Copyright="Further reproduction or distribution in other than a specialized format is prohibited" BaseFile="en-03496"/>
+	<AudioPool Path="en-03496 Files" Location="C:\Users\Xio\Documents\GitHub\DTBs\en-03496">
+		<File Id="1" Name="Silence.wav" Duration="01:00.001" Leq="-77.7">
+			<MetaData OriginalPath="J:\Audio\Silence.wav"/>
+		</File>
+		<File Id="2" Name="en-03496-0001.wav" Duration="01:59.560" Leq="-21.0" Dyn="0.67">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0001.wav"/>
+		</File>
+		<File Id="3" Name="en-03496-0002.wav" Duration="56.541" Leq="-21.0" Dyn="0.54">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0002.wav"/>
+		</File>
+		<File Id="4" Name="en-03496-0003.wav" Duration="05:58.540" Leq="-21.0" Dyn="0.63">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0003.wav"/>
+		</File>
+		<File Id="5" Name="en-03496-0004.wav" Duration="01:58.840" Leq="-21.0" Dyn="0.68">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0004.wav"/>
+		</File>
+		<File Id="6" Name="en-03496-0005.wav" Duration="15:03.466" Leq="-20.7" Dyn="0.66">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0005.wav"/>
+		</File>
+		<File Id="7" Name="en-03496-0006.wav" Duration="19:34.373" Leq="-21.2" Dyn="0.64">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0006.wav"/>
+		</File>
+		<File Id="8" Name="en-03496-0007.wav" Duration="03:58.609" Leq="-21.0" Dyn="0.64">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0007.wav"/>
+		</File>
+		<File Id="9" Name="en-03496-0008.wav" Duration="23:44.591" Leq="-21.3" Dyn="0.57">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0008.wav"/>
+		</File>
+		<File Id="10" Name="en-03496-0009.wav" Duration="24:08.601" Leq="-21.5" Dyn="0.73">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0009.wav"/>
+		</File>
+		<File Id="11" Name="en-03496-0010.wav" Duration="13:13.357" Leq="-21.2" Dyn="0.73">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0010.wav"/>
+		</File>
+		<File Id="12" Name="en-03496-0011.wav" Duration="07:48.254" Leq="-21.2" Dyn="0.80">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0011.wav"/>
+		</File>
+		<File Id="13" Name="en-03496-0012.wav" Duration="10:01.978" Leq="-21.0" Dyn="0.71">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0012.wav"/>
+		</File>
+		<File Id="14" Name="en-03496-0013.wav" Duration="06:31.953" Leq="-20.8" Dyn="0.81">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0013.wav"/>
+		</File>
+		<File Id="15" Name="en-03496-0014.wav" Duration="12:49.510" Leq="-20.3" Dyn="0.88">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0014.wav"/>
+		</File>
+		<File Id="16" Name="en-03496-0015.wav" Duration="07:09.012" Leq="-21.2" Dyn="0.87">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0015.wav"/>
+		</File>
+		<File Id="17" Name="en-03496-0016.wav" Duration="14:44.332" Leq="-21.0" Dyn="0.89">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0016.wav"/>
+		</File>
+		<File Id="18" Name="en-03496-0017.wav" Duration="26:41.156" Leq="-21.0" Dyn="0.85">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0017.wav"/>
+		</File>
+		<File Id="19" Name="en-03496-0018.wav" Duration="04:32.974" Leq="-21.0" Dyn="0.85">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0018.wav"/>
+		</File>
+		<File Id="20" Name="en-03496-0019.wav" Duration="24:32.122" Leq="-22.3" Dyn="0.83">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0019.wav"/>
+		</File>
+		<File Id="21" Name="en-03496-0020.wav" Duration="03:23.895" Leq="-21.0" Dyn="0.80">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0020.wav"/>
+		</File>
+		<File Id="22" Name="en-03496-0021.wav" Duration="29:32.914" Leq="-21.5" Dyn="0.77">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0021.wav"/>
+		</File>
+		<File Id="23" Name="en-03496-0022.wav" Duration="14:53.620" Leq="-21.4" Dyn="0.71">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0022.wav"/>
+		</File>
+		<File Id="24" Name="en-03496-0023.wav" Duration="06:00.351" Leq="-21.0" Dyn="0.72">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0023.wav"/>
+		</File>
+		<File Id="25" Name="en-03496-0024.wav" Duration="05:44.863" Leq="-20.9" Dyn="0.60">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0024.wav"/>
+		</File>
+		<File Id="26" Name="en-03496-0025.wav" Duration="06:42.031" Leq="-21.6" Dyn="0.61">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0025.wav"/>
+		</File>
+		<File Id="27" Name="en-03496-0026.wav" Duration="11:54.432" Leq="-20.6" Dyn="0.53">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0026.wav"/>
+		</File>
+		<File Id="28" Name="en-03496-0027.wav" Duration="11:25.546" Leq="-23.0" Dyn="0.18">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0027.wav"/>
+		</File>
+		<File Id="29" Name="en-03496-0028.wav" Duration="09:59.006" Leq="-20.9" Dyn="0.44">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0028.wav"/>
+		</File>
+		<File Id="30" Name="en-03496-0029.wav" Duration="02:54.057" Leq="-21.0" Dyn="0.78">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0029.wav"/>
+		</File>
+		<File Id="31" Name="en-03496-0030.wav" Duration="02:17.881" Leq="-21.0" Dyn="0.75">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0030.wav"/>
+		</File>
+		<File Id="32" Name="en-03496-0031.wav" Duration="07:53.316" Leq="-21.1" Dyn="0.86">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0031.wav"/>
+		</File>
+		<File Id="33" Name="en-03496-0032.wav" Duration="04:32.626" Leq="-21.0" Dyn="0.78">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0032.wav"/>
+		</File>
+		<File Id="34" Name="en-03496-0033.wav" Duration="02:09.359" Leq="-21.0" Dyn="0.74">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0033.wav"/>
+		</File>
+		<File Id="35" Name="en-03496-0034.wav" Duration="11:08.991" Leq="-21.4" Dyn="0.80">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0034.wav"/>
+		</File>
+		<File Id="36" Name="en-03496-0035.wav" Duration="21:10.457" Leq="-21.2" Dyn="0.82">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0035.wav"/>
+		</File>
+		<File Id="37" Name="en-03496-0036.wav" Duration="14:17.839" Leq="-21.7" Dyn="0.81">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0036.wav"/>
+		</File>
+		<File Id="38" Name="en-03496-0037.wav" Duration="01:08.592" Leq="-21.0" Dyn="0.79">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0037.wav"/>
+		</File>
+		<File Id="39" Name="en-03496-0038.wav" Duration="10:17.442" Leq="-21.2" Dyn="0.84">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0038.wav"/>
+		</File>
+		<File Id="40" Name="en-03496-0039.wav" Duration="08:23.432" Leq="-20.8" Dyn="0.88">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0039.wav"/>
+		</File>
+		<File Id="41" Name="en-03496-0040.wav" Duration="04:13.284" Leq="-21.1" Dyn="0.95">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0040.wav"/>
+		</File>
+		<File Id="42" Name="en-03496-0041.wav" Duration="21:43.151" Leq="-20.3" Dyn="0.90">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0041.wav"/>
+		</File>
+		<File Id="43" Name="en-03496-0042.wav" Duration="12:20.833" Leq="-21.1" Dyn="0.82">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0042.wav"/>
+		</File>
+		<File Id="44" Name="en-03496-0043.wav" Duration="25:37.556" Leq="-20.7" Dyn="0.86">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0043.wav"/>
+		</File>
+		<File Id="45" Name="en-03496-0044.wav" Duration="03:47.579" Leq="-21.0" Dyn="0.91">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0044.wav"/>
+		</File>
+		<File Id="46" Name="en-03496-0045.wav" Duration="11:35.392" Leq="-20.9" Dyn="0.88">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0045.wav"/>
+		</File>
+		<File Id="47" Name="en-03496-0046.wav" Duration="08:05.251" Leq="-21.4" Dyn="0.91">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0046.wav"/>
+		</File>
+		<File Id="48" Name="en-03496-0047.wav" Duration="02:37.803" Leq="-21.0" Dyn="0.82">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0047.wav"/>
+		</File>
+		<File Id="49" Name="en-03496-0048.wav" Duration="11:24.664" Leq="-20.4" Dyn="0.89">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0048.wav"/>
+		</File>
+		<File Id="50" Name="en-03496-0049.wav" Duration="09:48.789" Leq="-21.2" Dyn="0.93">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0049.wav"/>
+		</File>
+		<File Id="51" Name="en-03496-0050.wav" Duration="05:38.129" Leq="-21.0" Dyn="0.93">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0050.wav"/>
+		</File>
+		<File Id="52" Name="en-03496-0051.wav" Duration="11:08.573" Leq="-21.2" Dyn="0.83">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0051.wav"/>
+		</File>
+		<File Id="53" Name="en-03496-0052.wav" Duration="10:26.312" Leq="-20.7" Dyn="0.91">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0052.wav"/>
+		</File>
+		<File Id="54" Name="en-03496-0053.wav" Duration="06:49.043" Leq="-20.9" Dyn="0.99">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0053.wav"/>
+		</File>
+		<File Id="55" Name="en-03496-0054.wav" Duration="07:35.599" Leq="-20.9" Dyn="0.89">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0054.wav"/>
+		</File>
+		<File Id="56" Name="en-03496-0055.wav" Duration="07:56.079" Leq="-21.3" Dyn="1.01">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0055.wav"/>
+		</File>
+		<File Id="57" Name="en-03496-0056.wav" Duration="09:29.981" Leq="-20.2" Dyn="0.89">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0056.wav"/>
+		</File>
+		<File Id="58" Name="en-03496-0057.wav" Duration="03:10.009" Leq="-21.0" Dyn="0.91">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0057.wav"/>
+		</File>
+		<File Id="59" Name="en-03496-0058.wav" Duration="14:00.911" Leq="-21.2" Dyn="0.91">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0058.wav"/>
+		</File>
+		<File Id="60" Name="en-03496-0059.wav" Duration="12:08.619" Leq="-20.8" Dyn="0.93">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0059.wav"/>
+		</File>
+		<File Id="61" Name="en-03496-0060.wav" Duration="13:40.594" Leq="-21.1" Dyn="0.91">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0060.wav"/>
+		</File>
+		<File Id="62" Name="en-03496-0061.wav" Duration="16:03.095" Leq="-20.5" Dyn="0.84">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0061.wav"/>
+		</File>
+		<File Id="63" Name="en-03496-0062.wav" Duration="03:15.280" Leq="-21.0" Dyn="0.91">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0062.wav"/>
+		</File>
+		<File Id="64" Name="en-03496-0063.wav" Duration="20:26.804" Leq="-20.8" Dyn="0.90">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0063.wav"/>
+		</File>
+		<File Id="65" Name="en-03496-0064.wav" Duration="09:27.984" Leq="-20.8" Dyn="0.93">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0064.wav"/>
+		</File>
+		<File Id="66" Name="en-03496-0065.wav" Duration="02:07.594" Leq="-21.0" Dyn="0.90">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0065.wav"/>
+		</File>
+		<File Id="67" Name="en-03496-0066.wav" Duration="13:08.179" Leq="-20.7" Dyn="0.88">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0066.wav"/>
+		</File>
+		<File Id="68" Name="en-03496-0067.wav" Duration="08:45.004" Leq="-20.8" Dyn="0.92">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0067.wav"/>
+		</File>
+		<File Id="69" Name="en-03496-0068.wav" Duration="19:20.139" Leq="-21.4" Dyn="1.01">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0068.wav"/>
+		</File>
+		<File Id="70" Name="en-03496-0069.wav" Duration="03:36.294" Leq="-21.5" Dyn="0.96">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0069.wav"/>
+		</File>
+		<File Id="71" Name="en-03496-0070.wav" Duration="33:03.728" Leq="-21.4" Dyn="0.90">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0070.wav"/>
+		</File>
+		<File Id="72" Name="en-03496-0071.wav" Duration="18:06.741" Leq="-21.7" Dyn="0.94">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0071.wav"/>
+		</File>
+		<File Id="73" Name="en-03496-0072.wav" Duration="08:19.949" Leq="-21.4" Dyn="1.11">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0072.wav"/>
+		</File>
+		<File Id="74" Name="en-03496-0073.wav" Duration="03:33.763" Leq="-21.1" Dyn="1.00">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0073.wav"/>
+		</File>
+		<File Id="75" Name="en-03496-0074.wav" Duration="09:10.104" Leq="-20.8" Dyn="1.05">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0074.wav"/>
+		</File>
+		<File Id="76" Name="en-03496-0075.wav" Duration="14:24.828" Leq="-21.2" Dyn="1.10">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0075.wav"/>
+		</File>
+		<File Id="77" Name="en-03496-0076.wav" Duration="12:12.520" Leq="-21.4" Dyn="0.97">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0076.wav"/>
+		</File>
+		<File Id="78" Name="en-03496-0077.wav" Duration="17:44.194" Leq="-20.8" Dyn="0.95">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0077.wav"/>
+		</File>
+		<File Id="79" Name="en-03496-0078.wav" Duration="04:11.542" Leq="-21.0" Dyn="0.93">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0078.wav"/>
+		</File>
+		<File Id="80" Name="en-03496-0079.wav" Duration="10:29.377" Leq="-21.1" Dyn="0.89">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0079.wav"/>
+		</File>
+		<File Id="81" Name="en-03496-0080.wav" Duration="24:26.526" Leq="-20.3" Dyn="0.91">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0080.wav"/>
+		</File>
+		<File Id="82" Name="en-03496-0081.wav" Duration="04:45.281" Leq="-21.0" Dyn="0.85">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0081.wav"/>
+		</File>
+		<File Id="83" Name="en-03496-0082.wav" Duration="10:51.669" Leq="-20.9" Dyn="0.96">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0082.wav"/>
+		</File>
+		<File Id="84" Name="en-03496-0083.wav" Duration="03:57.123" Leq="-21.1" Dyn="1.04">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0083.wav"/>
+		</File>
+		<File Id="85" Name="en-03496-0085.wav" Duration="24:07.811" Leq="-20.6" Dyn="1.00">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0085.wav"/>
+		</File>
+		<File Id="86" Name="en-03496-0086.wav" Duration="19:00.286" Leq="-21.4" Dyn="0.94">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0086.wav"/>
+		</File>
+		<File Id="87" Name="en-03496-0087.wav" Duration="30:03.680" Leq="-21.2" Dyn="0.92">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0087.wav"/>
+		</File>
+		<File Id="88" Name="en-03496-0088.wav" Duration="06:17.325" Leq="-21.2" Dyn="0.87">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0088.wav"/>
+		</File>
+		<File Id="89" Name="en-03496-0089.wav" Duration="04:26.194" Leq="-21.1" Dyn="0.89">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0089.wav"/>
+		</File>
+		<File Id="90" Name="en-03496-0090.wav" Duration="17:12.174" Leq="-20.7" Dyn="0.90">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0090.wav"/>
+		</File>
+		<File Id="91" Name="en-03496-0091.wav" Duration="37:19.774" Leq="-20.9" Dyn="1.04">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0091.wav"/>
+		</File>
+		<File Id="92" Name="en-03496-0092.wav" Duration="28:50.259" Leq="-21.1" Dyn="0.93">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0092.wav"/>
+		</File>
+		<File Id="93" Name="en-03496-0093.wav" Duration="22:11.201" Leq="-21.2" Dyn="0.97">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0093.wav"/>
+		</File>
+		<File Id="94" Name="en-03496-0094.wav" Duration="11:46.166" Leq="-21.0" Dyn="0.87">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0094.wav"/>
+		</File>
+		<File Id="95" Name="en-03496-0095.wav" Duration="08:56.939" Leq="-20.9" Dyn="0.86">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0095.wav"/>
+		</File>
+		<File Id="96" Name="en-03496-0096.wav" Duration="16:45.517" Leq="-20.8" Dyn="1.03">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0096.wav"/>
+		</File>
+		<File Id="97" Name="en-03496-0097.wav" Duration="55:23.891" Leq="-20.7" Dyn="0.97">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0097.wav"/>
+		</File>
+		<File Id="98" Name="en-03496-0098.wav" Duration="28:49.028" Leq="-21.1" Dyn="0.95">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0098.wav"/>
+		</File>
+		<File Id="99" Name="en-03496-0099.wav" Duration="32:23.696" Leq="-20.7" Dyn="0.86">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0099.wav"/>
+		</File>
+		<File Id="100" Name="en-03496-0100.wav" Duration="07:33.974" Leq="-21.2" Dyn="0.94">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0100.wav"/>
+		</File>
+		<File Id="101" Name="en-03496-0101.wav" Duration="16:27.197" Leq="-21.4" Dyn="0.98">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0101.wav"/>
+		</File>
+		<File Id="102" Name="en-03496-0102.wav" Duration="36:57.437" Leq="-20.8" Dyn="0.94">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0102.wav"/>
+		</File>
+		<File Id="103" Name="en-03496-0103.wav" Duration="07.384" Leq="-21.0" Dyn="1.29">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0103.wav"/>
+		</File>
+		<File Id="104" Name="en-03496-0104.wav" Duration="02:07.896" Leq="-21.0" Dyn="1.00">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0104.wav"/>
+		</File>
+		<File Id="105" Name="en-03496-0105.wav" Duration="03:13.400" Leq="-21.1" Dyn="0.92">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0105.wav"/>
+		</File>
+		<File Id="106" Name="en-03496-0106.wav" Duration="02:00.373" Leq="-21.1" Dyn="1.02">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0106.wav"/>
+		</File>
+		<File Id="107" Name="en-03496-0107.wav" Duration="01:34.506" Leq="-21.2" Dyn="1.00">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0107.wav"/>
+		</File>
+		<File Id="108" Name="en-03496-0108.wav" Duration="03.948" Leq="-18.6" Dyn="1.18">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0108.wav"/>
+		</File>
+		<File Id="109" Name="en-03496-0109.wav" Duration="59.536" Leq="-21.0" Dyn="0.87">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0109.wav"/>
+		</File>
+		<File Id="110" Name="en-03496-0110.wav" Duration="25.705" Leq="-21.0" Dyn="0.88">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0110.wav"/>
+		</File>
+		<File Id="111" Name="en-03496-0111.wav" Duration="01:24.916" Leq="-21.0" Dyn="0.94">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0111.wav"/>
+		</File>
+		<File Id="112" Name="en-03496-0112.wav" Duration="01:37.896" Leq="-21.1" Dyn="0.91">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0112.wav"/>
+		</File>
+		<File Id="113" Name="en-03496-0113.wav" Duration="01:40.705" Leq="-21.0" Dyn="0.98">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0113.wav"/>
+		</File>
+		<File Id="114" Name="en-03496-0114.wav" Duration="02:27.912" Leq="-21.0" Dyn="0.96">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0114.wav"/>
+		</File>
+		<File Id="115" Name="en-03496-0115.wav" Duration="02:00.164" Leq="-21.0" Dyn="0.98">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0115.wav"/>
+		</File>
+		<File Id="116" Name="en-03496-0116.wav" Duration="39:12.159" Leq="-20.7" Dyn="0.86">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0116.wav"/>
+		</File>
+		<File Id="117" Name="en-03496-0117.wav" Duration="10.914" Leq="-22.6" Dyn="0.75">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0117.wav"/>
+		</File>
+		<File Id="118" Name="en-03496-1.wav" Duration="21:51.835" Leq="-20.9" Dyn="1.06">
+			<MetaData OriginalPath="X:\en-03496\en-03496-0084.wav"/>
+		</File>
+	</AudioPool>
+	<Tracks>
+		<Track Name="Narration">
+			<Region Ref="118" Name="en-03496-0084" Start="14:56:03.942" Length="21:51.835"/>
+			<Region Ref="1" Name="Silence" Length="00.300"/>
+			<Region Ref="2" Name="en-03496-0001" Start="00.300" Length="01:58.914" Offset="00.646"/>
+			<Region Ref="3" Name="en-03496-0002" Start="01:59.214" Length="56.541"/>
+			<Region Ref="4" Name="en-03496-0003" Start="02:55.755" Length="05:58.540"/>
+			<Region Ref="5" Name="en-03496-0004" Start="08:54.295" Length="01:58.840"/>
+			<Region Ref="6" Name="en-03496-0005" Start="10:53.135" Length="15:03.466" Gain="-0.3"/>
+			<Region Ref="7" Name="en-03496-0006" Start="25:56.601" Length="19:34.373" Gain="0.2"/>
+			<Region Ref="8" Name="en-03496-0007" Start="45:30.974" Length="03:58.609"/>
+			<Region Ref="9" Name="en-03496-0008" Start="49:29.583" Length="23:44.591" Gain="0.3"/>
+			<Region Ref="10" Name="en-03496-0009" Start="1:13:14.174" Length="24:08.601" Gain="0.5"/>
+			<Region Ref="11" Name="en-03496-0010" Start="1:37:22.775" Length="13:13.357" Gain="0.2"/>
+			<Region Ref="12" Name="en-03496-0011" Start="1:50:36.132" Length="07:48.254" Gain="0.2"/>
+			<Region Ref="13" Name="en-03496-0012" Start="1:58:24.386" Length="10:01.978"/>
+			<Region Ref="14" Name="en-03496-0013" Start="2:08:26.364" Length="06:31.953"/>
+			<Region Ref="15" Name="en-03496-0014" Start="2:14:58.317" Length="12:49.510" Gain="-0.7"/>
+			<Region Ref="16" Name="en-03496-0015" Start="2:27:47.827" Length="07:09.012" Gain="0.2"/>
+			<Region Ref="17" Name="en-03496-0016" Start="2:34:56.839" Length="14:44.332"/>
+			<Region Ref="18" Name="en-03496-0017" Start="2:49:41.171" Length="26:41.156"/>
+			<Region Ref="19" Name="en-03496-0018" Start="3:16:22.327" Length="04:32.974"/>
+			<Region Ref="20" Name="en-03496-0019" Start="3:20:55.301" Length="24:32.122" Gain="1.3"/>
+			<Region Ref="21" Name="en-03496-0020" Start="3:45:27.423" Length="03:23.895"/>
+			<Region Ref="22" Name="en-03496-0021" Start="3:48:51.318" Length="29:32.914" Gain="0.5"/>
+			<Region Ref="23" Name="en-03496-0022" Start="4:18:24.232" Length="14:53.620" Gain="0.4"/>
+			<Region Ref="24" Name="en-03496-0023" Start="4:33:17.852" Length="06:00.351"/>
+			<Region Ref="25" Name="en-03496-0024" Start="4:39:18.203" Length="05:44.863"/>
+			<Region Ref="26" Name="en-03496-0025" Start="4:45:03.066" Length="06:42.031" Gain="0.6"/>
+			<Region Ref="27" Name="en-03496-0026" Start="4:51:45.097" Length="11:54.432" Gain="-0.4"/>
+			<Region Ref="28" Name="en-03496-0027" Start="5:03:39.529" Length="11:25.546"/>
+			<Region Ref="29" Name="en-03496-0028" Start="5:15:05.075" Length="09:59.006"/>
+			<Region Ref="30" Name="en-03496-0029" Start="5:25:04.081" Length="02:54.057"/>
+			<Region Ref="31" Name="en-03496-0030" Start="5:27:58.138" Length="02:17.881"/>
+			<Region Ref="32" Name="en-03496-0031" Start="5:30:16.019" Length="07:53.316"/>
+			<Region Ref="33" Name="en-03496-0032" Start="5:38:09.335" Length="04:32.626"/>
+			<Region Ref="34" Name="en-03496-0033" Start="5:42:41.961" Length="02:09.359"/>
+			<Region Ref="35" Name="en-03496-0034" Start="5:44:51.320" Length="11:08.991" Gain="0.4"/>
+			<Region Ref="36" Name="en-03496-0035" Start="5:56:00.311" Length="21:10.457" Gain="0.2"/>
+			<Region Ref="37" Name="en-03496-0036" Start="6:17:10.768" Length="14:17.839" Gain="0.7"/>
+			<Region Ref="38" Name="en-03496-0037" Start="6:31:28.607" Length="01:08.592"/>
+			<Region Ref="39" Name="en-03496-0038" Start="6:32:37.199" Length="10:17.442" Gain="0.2"/>
+			<Region Ref="40" Name="en-03496-0039" Start="6:42:54.641" Length="08:23.432"/>
+			<Region Ref="41" Name="en-03496-0040" Start="6:51:18.073" Length="04:13.284"/>
+			<Region Ref="42" Name="en-03496-0041" Start="6:55:31.357" Length="21:43.151" Gain="-0.7"/>
+			<Region Ref="43" Name="en-03496-0042" Start="7:17:14.508" Length="12:20.833"/>
+			<Region Ref="44" Name="en-03496-0043" Start="7:29:35.341" Length="25:37.556" Gain="-0.3"/>
+			<Region Ref="45" Name="en-03496-0044" Start="7:55:12.897" Length="03:47.579"/>
+			<Region Ref="46" Name="en-03496-0045" Start="7:59:00.476" Length="11:35.392"/>
+			<Region Ref="47" Name="en-03496-0046" Start="8:10:35.868" Length="08:05.251" Gain="0.4"/>
+			<Region Ref="48" Name="en-03496-0047" Start="8:18:41.119" Length="02:37.803"/>
+			<Region Ref="49" Name="en-03496-0048" Start="8:21:18.922" Length="11:24.664" Gain="-0.6"/>
+			<Region Ref="50" Name="en-03496-0049" Start="8:32:43.586" Length="09:48.789" Gain="0.2"/>
+			<Region Ref="51" Name="en-03496-0050" Start="8:42:32.375" Length="05:38.129"/>
+			<Region Ref="52" Name="en-03496-0051" Start="8:48:10.504" Length="11:08.573" Gain="0.2"/>
+			<Region Ref="53" Name="en-03496-0052" Start="8:59:19.077" Length="10:26.312" Gain="-0.3"/>
+			<Region Ref="54" Name="en-03496-0053" Start="9:09:45.389" Length="06:49.043"/>
+			<Region Ref="55" Name="en-03496-0054" Start="9:16:34.432" Length="07:35.599"/>
+			<Region Ref="56" Name="en-03496-0055" Start="9:24:10.031" Length="07:56.079" Gain="0.3"/>
+			<Region Ref="57" Name="en-03496-0056" Start="9:32:06.110" Length="09:29.981" Gain="-0.8"/>
+			<Region Ref="58" Name="en-03496-0057" Start="9:41:36.091" Length="03:10.009"/>
+			<Region Ref="59" Name="en-03496-0058" Start="9:44:46.100" Length="14:00.911" Gain="0.2"/>
+			<Region Ref="60" Name="en-03496-0059" Start="9:58:47.011" Length="12:08.619"/>
+			<Region Ref="61" Name="en-03496-0060" Start="10:10:55.630" Length="13:40.594"/>
+			<Region Ref="62" Name="en-03496-0061" Start="10:24:36.224" Length="16:03.095" Gain="-0.5"/>
+			<Region Ref="63" Name="en-03496-0062" Start="10:40:39.319" Length="03:15.280"/>
+			<Region Ref="64" Name="en-03496-0063" Start="10:43:54.599" Length="20:26.804"/>
+			<Region Ref="65" Name="en-03496-0064" Start="11:04:21.403" Length="09:27.984"/>
+			<Region Ref="66" Name="en-03496-0065" Start="11:13:49.387" Length="02:07.594"/>
+			<Region Ref="67" Name="en-03496-0066" Start="11:15:56.981" Length="13:08.179" Gain="-0.3"/>
+			<Region Ref="68" Name="en-03496-0067" Start="11:29:05.160" Length="08:45.004"/>
+			<Region Ref="69" Name="en-03496-0068" Start="11:37:50.164" Length="19:20.139" Gain="0.4"/>
+			<Region Ref="70" Name="en-03496-0069" Start="11:57:10.303" Length="03:36.294" Gain="0.5"/>
+			<Region Ref="71" Name="en-03496-0070" Start="12:00:46.597" Length="33:03.728" Gain="0.4"/>
+			<Region Ref="72" Name="en-03496-0071" Start="12:33:50.325" Length="18:06.741" Gain="0.7"/>
+			<Region Ref="73" Name="en-03496-0072" Start="12:51:57.066" Length="08:19.949" Gain="0.4"/>
+			<Region Ref="74" Name="en-03496-0073" Start="13:00:17.015" Length="03:33.763"/>
+			<Region Ref="75" Name="en-03496-0074" Start="13:03:50.778" Length="09:10.104"/>
+			<Region Ref="76" Name="en-03496-0075" Start="13:13:00.882" Length="14:24.828" Gain="0.2"/>
+			<Region Ref="77" Name="en-03496-0076" Start="13:27:25.710" Length="12:12.520" Gain="0.4"/>
+			<Region Ref="78" Name="en-03496-0077" Start="13:39:38.230" Length="17:44.194"/>
+			<Region Ref="79" Name="en-03496-0078" Start="13:57:22.424" Length="04:11.542"/>
+			<Region Ref="80" Name="en-03496-0079" Start="14:01:33.966" Length="10:29.377"/>
+			<Region Ref="81" Name="en-03496-0080" Start="14:12:03.343" Length="24:26.526" Gain="-0.7"/>
+			<Region Ref="82" Name="en-03496-0081" Start="14:36:29.869" Length="04:45.281"/>
+			<Region Ref="83" Name="en-03496-0082" Start="14:41:15.150" Length="10:51.669"/>
+			<Region Ref="84" Name="en-03496-0083" Start="14:52:06.819" Length="03:57.123"/>
+			<Region Ref="85" Name="en-03496-0085" Start="15:17:55.777" Length="24:07.811" Gain="-0.4"/>
+			<Region Ref="86" Name="en-03496-0086" Start="15:42:03.588" Length="19:00.286" Gain="0.4"/>
+			<Region Ref="87" Name="en-03496-0087" Start="16:01:03.874" Length="30:03.680" Gain="0.2"/>
+			<Region Ref="88" Name="en-03496-0088" Start="16:31:07.554" Length="06:17.325" Gain="0.2"/>
+			<Region Ref="89" Name="en-03496-0089" Start="16:37:24.879" Length="04:26.194"/>
+			<Region Ref="90" Name="en-03496-0090" Start="16:41:51.073" Length="17:12.174" Gain="-0.3"/>
+			<Region Ref="91" Name="en-03496-0091" Start="16:59:03.247" Length="37:19.774"/>
+			<Region Ref="92" Name="en-03496-0092" Start="17:36:23.021" Length="28:50.259"/>
+			<Region Ref="93" Name="en-03496-0093" Start="18:05:13.280" Length="22:11.201" Gain="0.2"/>
+			<Region Ref="94" Name="en-03496-0094" Start="18:27:24.481" Length="11:46.166"/>
+			<Region Ref="95" Name="en-03496-0095" Start="18:39:10.647" Length="08:56.939"/>
+			<Region Ref="96" Name="en-03496-0096" Start="18:48:07.586" Length="16:45.517"/>
+			<Region Ref="97" Name="en-03496-0097" Start="19:04:53.103" Length="55:23.891" Gain="-0.3"/>
+			<Region Ref="98" Name="en-03496-0098" Start="20:00:16.994" Length="28:49.028"/>
+			<Region Ref="99" Name="en-03496-0099" Start="20:29:06.022" Length="32:23.696" Gain="-0.3"/>
+			<Region Ref="100" Name="en-03496-0100" Start="21:01:29.718" Length="07:33.974" Gain="0.2"/>
+			<Region Ref="101" Name="en-03496-0101" Start="21:09:03.692" Length="16:27.197" Gain="0.4"/>
+			<Region Ref="102" Name="en-03496-0102" Start="21:25:30.889" Length="36:57.437"/>
+			<Region Ref="103" Name="en-03496-0103" Start="22:02:28.326" Length="07.384"/>
+			<Region Ref="104" Name="en-03496-0104" Start="22:02:35.710" Length="02:07.896"/>
+			<Region Ref="105" Name="en-03496-0105" Start="22:04:43.606" Length="03:13.400"/>
+			<Region Ref="106" Name="en-03496-0106" Start="22:07:57.006" Length="02:00.373"/>
+			<Region Ref="107" Name="en-03496-0107" Start="22:09:57.379" Length="01:34.506" Gain="0.2"/>
+			<Region Ref="108" Name="en-03496-0108" Start="22:11:31.885" Length="03.948" Gain="-2.4"/>
+			<Region Ref="109" Name="en-03496-0109" Start="22:11:35.833" Length="59.536"/>
+			<Region Ref="110" Name="en-03496-0110" Start="22:12:35.369" Length="25.705"/>
+			<Region Ref="111" Name="en-03496-0111" Start="22:13:01.074" Length="01:24.916"/>
+			<Region Ref="112" Name="en-03496-0112" Start="22:14:25.990" Length="01:37.896"/>
+			<Region Ref="113" Name="en-03496-0113" Start="22:16:03.886" Length="01:40.705"/>
+			<Region Ref="114" Name="en-03496-0114" Start="22:17:44.591" Length="02:27.912"/>
+			<Region Ref="115" Name="en-03496-0115" Start="22:20:12.503" Length="02:00.164"/>
+			<Region Ref="116" Name="en-03496-0116" Start="22:22:12.667" Length="39:12.159" Gain="-0.3"/>
+			<Region Ref="117" Name="en-03496-0117" Start="23:01:24.826" Length="09.877" Gain="1.6"/>
+		</Track>
+	</Tracks>
+	<Clipboard>
+		<Group Caption="Group 1"/>
+		<Group Caption="Group 2"/>
+		<Group Caption="Group 3"/>
+		<Group Caption="Group 4"/>
+	</Clipboard>
+	<Markers>
+		<Marker Id="2" Name="Out" Time="23:01:34.703"/>
+		<Marker Id="11" Name="0002" Time="01:59.214" Type="Chapter"/>
+		<Marker Id="12" Name="0003" Time="02:55.755" Type="Chapter"/>
+		<Marker Id="13" Name="0004" Time="08:54.295" Type="Chapter"/>
+		<Marker Id="14" Name="0005" Time="10:53.135" Type="Chapter"/>
+		<Marker Id="15" Name="0006" Time="25:56.601" Type="Chapter"/>
+		<Marker Id="16" Name="0007" Time="45:30.974" Type="Chapter"/>
+		<Marker Id="17" Name="0008" Time="49:29.583" Type="Chapter"/>
+		<Marker Id="18" Name="0009" Time="1:13:14.174" Type="Chapter"/>
+		<Marker Id="19" Name="0010" Time="1:37:22.775" Type="Chapter"/>
+		<Marker Id="20" Name="0011" Time="1:50:36.132" Type="Chapter"/>
+		<Marker Id="21" Name="0012" Time="1:58:24.386" Type="Chapter"/>
+		<Marker Id="22" Name="0013" Time="2:08:26.364" Type="Chapter"/>
+		<Marker Id="23" Name="0014" Time="2:14:58.317" Type="Chapter"/>
+		<Marker Id="24" Name="0015" Time="2:27:47.827" Type="Chapter"/>
+		<Marker Id="25" Name="0016" Time="2:34:56.839" Type="Chapter"/>
+		<Marker Id="26" Name="0017" Time="2:49:41.171" Type="Chapter"/>
+		<Marker Id="27" Name="0018" Time="3:16:22.327" Type="Chapter"/>
+		<Marker Id="28" Name="0019" Time="3:20:55.301" Type="Chapter"/>
+		<Marker Id="29" Name="0020" Time="3:45:27.423" Type="Chapter"/>
+		<Marker Id="30" Name="0021" Time="3:48:51.318" Type="Chapter"/>
+		<Marker Id="31" Name="0022" Time="4:18:24.232" Type="Chapter"/>
+		<Marker Id="32" Name="0023" Time="4:33:17.852" Type="Chapter"/>
+		<Marker Id="33" Name="0024" Time="4:39:18.203" Type="Chapter"/>
+		<Marker Id="34" Name="0025" Time="4:45:03.066" Type="Chapter"/>
+		<Marker Id="35" Name="0026" Time="4:51:45.097" Type="Chapter"/>
+		<Marker Id="36" Name="0027" Time="5:03:39.529" Type="Chapter"/>
+		<Marker Id="37" Name="0028" Time="5:15:05.075" Type="Chapter"/>
+		<Marker Id="38" Name="0029" Time="5:25:04.081" Type="Chapter"/>
+		<Marker Id="39" Name="0030" Time="5:27:58.138" Type="Chapter"/>
+		<Marker Id="40" Name="0031" Time="5:30:16.019" Type="Chapter"/>
+		<Marker Id="41" Name="0032" Time="5:38:09.335" Type="Chapter"/>
+		<Marker Id="42" Name="0033" Time="5:42:41.961" Type="Chapter"/>
+		<Marker Id="43" Name="0034" Time="5:44:51.320" Type="Chapter"/>
+		<Marker Id="44" Name="0035" Time="5:56:00.311" Type="Chapter"/>
+		<Marker Id="45" Name="0036" Time="6:17:10.768" Type="Chapter"/>
+		<Marker Id="46" Name="0037" Time="6:31:28.607" Type="Chapter"/>
+		<Marker Id="47" Name="0038" Time="6:32:37.199" Type="Chapter"/>
+		<Marker Id="48" Name="0039" Time="6:42:54.641" Type="Chapter"/>
+		<Marker Id="49" Name="0040" Time="6:51:18.073" Type="Chapter"/>
+		<Marker Id="50" Name="0041" Time="6:55:31.357" Type="Chapter"/>
+		<Marker Id="51" Name="0042" Time="7:17:14.508" Type="Chapter"/>
+		<Marker Id="52" Name="0043" Time="7:29:35.341" Type="Chapter"/>
+		<Marker Id="53" Name="0044" Time="7:55:12.897" Type="Chapter"/>
+		<Marker Id="54" Name="0045" Time="7:59:00.476" Type="Chapter"/>
+		<Marker Id="55" Name="0046" Time="8:10:35.868" Type="Chapter"/>
+		<Marker Id="56" Name="0047" Time="8:18:41.119" Type="Chapter"/>
+		<Marker Id="57" Name="0048" Time="8:21:18.922" Type="Chapter"/>
+		<Marker Id="58" Name="0049" Time="8:32:43.586" Type="Chapter"/>
+		<Marker Id="59" Name="0050" Time="8:42:32.375" Type="Chapter"/>
+		<Marker Id="60" Name="0051" Time="8:48:10.504" Type="Chapter"/>
+		<Marker Id="61" Name="0052" Time="8:59:19.077" Type="Chapter"/>
+		<Marker Id="62" Name="0053" Time="9:09:45.389" Type="Chapter"/>
+		<Marker Id="63" Name="0054" Time="9:16:34.432" Type="Chapter"/>
+		<Marker Id="64" Name="0055" Time="9:24:10.031" Type="Chapter"/>
+		<Marker Id="65" Name="0056" Time="9:32:06.110" Type="Chapter"/>
+		<Marker Id="66" Name="0057" Time="9:41:36.091" Type="Chapter"/>
+		<Marker Id="67" Name="0058" Time="9:44:46.100" Type="Chapter"/>
+		<Marker Id="68" Name="0059" Time="9:58:47.011" Type="Chapter"/>
+		<Marker Id="69" Name="0060" Time="10:10:55.630" Type="Chapter"/>
+		<Marker Id="70" Name="0061" Time="10:24:36.224" Type="Chapter"/>
+		<Marker Id="71" Name="0062" Time="10:40:39.319" Type="Chapter"/>
+		<Marker Id="72" Name="0063" Time="10:43:54.599" Type="Chapter"/>
+		<Marker Id="73" Name="0064" Time="11:04:21.403" Type="Chapter"/>
+		<Marker Id="74" Name="0065" Time="11:13:49.387" Type="Chapter"/>
+		<Marker Id="75" Name="0066" Time="11:15:56.981" Type="Chapter"/>
+		<Marker Id="76" Name="0067" Time="11:29:05.160" Type="Chapter"/>
+		<Marker Id="77" Name="0068" Time="11:37:50.164" Type="Chapter"/>
+		<Marker Id="78" Name="0069" Time="11:57:10.303" Type="Chapter"/>
+		<Marker Id="79" Name="0070" Time="12:00:46.597" Type="Chapter"/>
+		<Marker Id="80" Name="0071" Time="12:33:50.325" Type="Chapter"/>
+		<Marker Id="81" Name="0072" Time="12:51:57.066" Type="Chapter"/>
+		<Marker Id="82" Name="0073" Time="13:00:17.015" Type="Chapter"/>
+		<Marker Id="83" Name="0074" Time="13:03:50.778" Type="Chapter"/>
+		<Marker Id="84" Name="0075" Time="13:13:00.882" Type="Chapter"/>
+		<Marker Id="85" Name="0076" Time="13:27:25.710" Type="Chapter"/>
+		<Marker Id="86" Name="0077" Time="13:39:38.230" Type="Chapter"/>
+		<Marker Id="87" Name="0078" Time="13:57:22.424" Type="Chapter"/>
+		<Marker Id="88" Name="0079" Time="14:01:33.966" Type="Chapter"/>
+		<Marker Id="89" Name="0080" Time="14:12:03.343" Type="Chapter"/>
+		<Marker Id="90" Name="0081" Time="14:36:29.869" Type="Chapter"/>
+		<Marker Id="91" Name="0082" Time="14:41:15.150" Type="Chapter"/>
+		<Marker Id="92" Name="0083" Time="14:52:06.819" Type="Chapter"/>
+		<Marker Id="93" Name="0084" Time="14:56:03.942" Type="Chapter"/>
+		<Marker Id="94" Name="0085" Time="15:17:55.777" Type="Chapter"/>
+		<Marker Id="95" Name="0086" Time="15:42:03.588" Type="Chapter"/>
+		<Marker Id="96" Name="0087" Time="16:01:03.874" Type="Chapter"/>
+		<Marker Id="97" Name="0088" Time="16:31:07.554" Type="Chapter"/>
+		<Marker Id="98" Name="0089" Time="16:37:24.879" Type="Chapter"/>
+		<Marker Id="99" Name="0090" Time="16:41:51.073" Type="Chapter"/>
+		<Marker Id="100" Name="0091" Time="16:59:03.247" Type="Chapter"/>
+		<Marker Id="101" Name="0092" Time="17:36:23.021" Type="Chapter"/>
+		<Marker Id="102" Name="0093" Time="18:05:13.280" Type="Chapter"/>
+		<Marker Id="103" Name="0094" Time="18:27:24.481" Type="Chapter"/>
+		<Marker Id="104" Name="0095" Time="18:39:10.647" Type="Chapter"/>
+		<Marker Id="105" Name="0096" Time="18:48:07.586" Type="Chapter"/>
+		<Marker Id="106" Name="0097" Time="19:04:53.103" Type="Chapter"/>
+		<Marker Id="107" Name="0098" Time="20:00:16.994" Type="Chapter"/>
+		<Marker Id="108" Name="0099" Time="20:29:06.022" Type="Chapter"/>
+		<Marker Id="109" Name="0100" Time="21:01:29.718" Type="Chapter"/>
+		<Marker Id="110" Name="0101" Time="21:09:03.692" Type="Chapter"/>
+		<Marker Id="111" Name="0102" Time="21:25:30.889" Type="Chapter"/>
+		<Marker Id="112" Name="0103" Time="22:02:28.326" Type="Chapter"/>
+		<Marker Id="113" Name="0104" Time="22:02:35.710" Type="Chapter"/>
+		<Marker Id="114" Name="0105" Time="22:04:43.606" Type="Chapter"/>
+		<Marker Id="115" Name="0106" Time="22:07:57.006" Type="Chapter"/>
+		<Marker Id="116" Name="0107" Time="22:09:57.379" Type="Chapter"/>
+		<Marker Id="117" Name="0108" Time="22:11:31.885" Type="Chapter"/>
+		<Marker Id="118" Name="0109" Time="22:11:35.833" Type="Chapter"/>
+		<Marker Id="119" Name="0110" Time="22:12:35.369" Type="Chapter"/>
+		<Marker Id="120" Name="0111" Time="22:13:01.074" Type="Chapter"/>
+		<Marker Id="121" Name="0112" Time="22:14:25.990" Type="Chapter"/>
+		<Marker Id="122" Name="0113" Time="22:16:03.886" Type="Chapter"/>
+		<Marker Id="123" Name="0114" Time="22:17:44.591" Type="Chapter"/>
+		<Marker Id="124" Name="0115" Time="22:20:12.503" Type="Chapter"/>
+		<Marker Id="125" Name="0116" Time="22:22:12.667" Type="Chapter"/>
+		<Marker Id="126" Name="0117" Time="23:01:24.826" Type="Chapter"/>
+	</Markers>
+	<Document File="Document.xhtml" DocPath="C:\Users\Xio\Documents\GitHub\DTBs\en-03496\en-03496 Files/Document.xhtml"/>
+	<TextItems>
+		<TextItem Name="Title" State="1" Key="1">
+			<h1 class="docTitle">Title</h1>
+		</TextItem>
+		<TextItem Name="Author" State="1" Key="2">
+			<h1 class="docAuthor">Author(s)</h1>
+		</TextItem>
+		<TextItem Name="Annotation" State="1" Key="3">
+			<h1 class="annotation">Library of Congress Annotation</h1>
+		</TextItem>
+		<TextItem Name="Close" State="1" Key="4">
+			<h1 class="close">Close</h1>
+		</TextItem>
+		<TextItem Name="Part" State="1" Key="5">
+			<h1 class="part">Part #</h1>
+		</TextItem>
+		<TextItem Name="Chapter" State="1" Key="6">
+			<h2 class="chapter">Chapter #</h2>
+		</TextItem>
+		<TextItem Name="Section" State="1" Key="7">
+			<h3 class="section">Section #</h3>
+		</TextItem>
+		<TextItem Name="Unit" State="1" Key="8">
+			<h1 class="unit">Unit #</h1>
+		</TextItem>
+		<TextItem Name="Subunit" State="1" Key="9">
+			<h2 class="unit">Unit #</h2>
+		</TextItem>
+		<TextItem Name="Subsubunit" State="1" Key="0">
+			<h3 class="unit">Subunit #</h3>
+		</TextItem>
+		<TextItem Name="Reader's Note" State="1">
+			<div class="prodnote">
+				<p>Reader's Note</p>
+			</div>
+		</TextItem>
+		<TextItem Name="Segment" State="1">
+			<p class="segment">Segment</p>
+		</TextItem>
+		<TextItem Name="Note-Ref" State="1">
+			<a class="noteref">*</a>
+		</TextItem>
+		<TextItem Name="Note-Content" State="1">
+			<div class="note">
+				<p>Note content</p>
+			</div>
+		</TextItem>
+		<TextItem Name="Sidebar" State="1">
+			<div class="sidebar">
+				<p>Sidebar</p>
+			</div>
+		</TextItem>
+		<TextItem Name="Page" State="1">
+			<span class="pagenum">#</span>
+		</TextItem>
+		<TextItem Name="Line" State="0">
+			<span class="linenum">#</span>
+		</TextItem>
+	</TextItems>
+	<NavPoints>
+		<NavPoint Id="hix00001" Begin="00.100"/>
+		<NavPoint Id="hix00001" Begin="00.200"/>
+		<NavPoint Id="hix00002" Begin="00.300"/>
+		<NavPoint Id="hix00002" Begin="07.671"/>
+		<NavPoint Id="hix00003" Begin="15.880"/>
+		<NavPoint Id="hix00003" Begin="26.894"/>
+		<NavPoint Id="hix00004" Begin="01:59.214"/>
+		<NavPoint Id="hix00004" Begin="02:02.208"/>
+		<NavPoint Id="hix00005" Begin="02:55.755"/>
+		<NavPoint Id="hix00005" Begin="02:56.369"/>
+		<NavPoint Id="hix00006" Begin="08:54.295"/>
+		<NavPoint Id="hix00006" Begin="08:56.021"/>
+		<NavPoint Id="hix00007" Begin="10:53.135"/>
+		<NavPoint Id="hix00007" Begin="10:54.044"/>
+		<NavPoint Id="hix00008" Begin="25:56.601"/>
+		<NavPoint Id="hix00008" Begin="26:06.138"/>
+		<NavPoint Id="hix00009" Begin="45:30.974"/>
+		<NavPoint Id="hix00009" Begin="45:36.216"/>
+		<NavPoint Id="hix00010" Begin="49:29.583"/>
+		<NavPoint Id="hix00010" Begin="49:33.113"/>
+		<NavPoint Id="hix00011" Begin="1:13:14.174"/>
+		<NavPoint Id="hix00011" Begin="1:13:18.597"/>
+		<NavPoint Id="hix00012" Begin="1:37:22.775"/>
+		<NavPoint Id="hix00012" Begin="1:37:27.135"/>
+		<NavPoint Id="hix00013" Begin="1:50:36.132"/>
+		<NavPoint Id="hix00013" Begin="1:50:39.299"/>
+		<NavPoint Id="hix00014" Begin="1:58:24.386"/>
+		<NavPoint Id="hix00014" Begin="1:58:29.047"/>
+		<NavPoint Id="hix00015" Begin="2:08:26.364"/>
+		<NavPoint Id="hix00015" Begin="2:08:30.292"/>
+		<NavPoint Id="hix00016" Begin="2:14:58.317"/>
+		<NavPoint Id="hix00016" Begin="2:15:04.275"/>
+		<NavPoint Id="hix00017" Begin="2:27:47.827"/>
+		<NavPoint Id="hix00017" Begin="2:27:52.519"/>
+		<NavPoint Id="hix00018" Begin="2:34:56.839"/>
+		<NavPoint Id="hix00018" Begin="2:34:59.451"/>
+		<NavPoint Id="hix00019" Begin="2:49:41.171"/>
+		<NavPoint Id="hix00019" Begin="2:49:44.061"/>
+		<NavPoint Id="hix00020" Begin="3:16:22.327"/>
+		<NavPoint Id="hix00020" Begin="3:16:26.374"/>
+		<NavPoint Id="hix00021" Begin="3:20:55.301"/>
+		<NavPoint Id="hix00021" Begin="3:21:00.531"/>
+		<NavPoint Id="hix00022" Begin="3:45:27.423"/>
+		<NavPoint Id="hix00022" Begin="3:45:30.186"/>
+		<NavPoint Id="hix00023" Begin="3:48:51.318"/>
+		<NavPoint Id="hix00023" Begin="3:48:54.963"/>
+		<NavPoint Id="hix00024" Begin="4:18:24.232"/>
+		<NavPoint Id="hix00024" Begin="4:18:29.751"/>
+		<NavPoint Id="hix00025" Begin="4:33:17.852"/>
+		<NavPoint Id="hix00025" Begin="4:33:21.152"/>
+		<NavPoint Id="hix00026" Begin="4:39:18.203"/>
+		<NavPoint Id="hix00026" Begin="4:39:21.096"/>
+		<NavPoint Id="hix00027" Begin="4:45:03.066"/>
+		<NavPoint Id="hix00027" Begin="4:45:05.700"/>
+		<NavPoint Id="hix00028" Begin="4:51:45.097"/>
+		<NavPoint Id="hix00028" Begin="4:51:48.290"/>
+		<NavPoint Id="hix00029" Begin="5:03:39.529"/>
+		<NavPoint Id="hix00029" Begin="5:03:41.959"/>
+		<NavPoint Id="hix00030" Begin="5:15:05.075"/>
+		<NavPoint Id="hix00030" Begin="5:15:08.825"/>
+		<NavPoint Id="hix00031" Begin="5:25:04.081"/>
+		<NavPoint Id="hix00031" Begin="5:25:07.906"/>
+		<NavPoint Id="hix00032" Begin="5:27:58.138"/>
+		<NavPoint Id="hix00032" Begin="5:28:00.726"/>
+		<NavPoint Id="hix00033" Begin="5:30:16.019"/>
+		<NavPoint Id="hix00033" Begin="5:30:18.376"/>
+		<NavPoint Id="hix00034" Begin="5:38:09.335"/>
+		<NavPoint Id="hix00034" Begin="5:38:12.409"/>
+		<NavPoint Id="hix00035" Begin="5:42:41.961"/>
+		<NavPoint Id="hix00035" Begin="5:42:46.820"/>
+		<NavPoint Id="hix00036" Begin="5:44:51.320"/>
+		<NavPoint Id="hix00036" Begin="5:44:56.723"/>
+		<NavPoint Id="hix00037" Begin="5:56:00.311"/>
+		<NavPoint Id="hix00037" Begin="5:56:04.392"/>
+		<NavPoint Id="hix00038" Begin="6:17:10.768"/>
+		<NavPoint Id="hix00038" Begin="6:17:20.318"/>
+		<NavPoint Id="hix00039" Begin="6:31:28.607"/>
+		<NavPoint Id="hix00039" Begin="6:31:32.859"/>
+		<NavPoint Id="hix00040" Begin="6:32:37.199"/>
+		<NavPoint Id="hix00040" Begin="6:32:41.769"/>
+		<NavPoint Id="hix00041" Begin="6:42:54.641"/>
+		<NavPoint Id="hix00041" Begin="6:42:57.595"/>
+		<NavPoint Id="hix00043" Begin="6:51:18.073"/>
+		<NavPoint Id="hix00043" Begin="6:51:23.238"/>
+		<NavPoint Id="hix00044" Begin="6:55:31.357"/>
+		<NavPoint Id="hix00044" Begin="6:55:39.007"/>
+		<NavPoint Id="hix00045" Begin="7:17:14.508"/>
+		<NavPoint Id="hix00045" Begin="7:17:19.239"/>
+		<NavPoint Id="hix00046" Begin="7:29:35.341"/>
+		<NavPoint Id="hix00046" Begin="7:29:43.534"/>
+		<NavPoint Id="hix00047" Begin="7:55:12.897"/>
+		<NavPoint Id="hix00047" Begin="7:55:16.887"/>
+		<NavPoint Id="hix00048" Begin="7:59:00.476"/>
+		<NavPoint Id="hix00048" Begin="7:59:06.311"/>
+		<NavPoint Id="hix00049" Begin="8:10:35.868"/>
+		<NavPoint Id="hix00049" Begin="8:10:38.288"/>
+		<NavPoint Id="hix00050" Begin="8:18:41.119"/>
+		<NavPoint Id="hix00050" Begin="8:18:43.603"/>
+		<NavPoint Id="hix00051" Begin="8:21:18.922"/>
+		<NavPoint Id="hix00051" Begin="8:21:23.950"/>
+		<NavPoint Id="hix00052" Begin="8:32:43.586"/>
+		<NavPoint Id="hix00052" Begin="8:32:46.718"/>
+		<NavPoint Id="hix00053" Begin="8:42:32.375"/>
+		<NavPoint Id="hix00053" Begin="8:42:36.321"/>
+		<NavPoint Id="hix00054" Begin="8:48:10.504"/>
+		<NavPoint Id="hix00054" Begin="8:48:14.015"/>
+		<NavPoint Id="hix00055" Begin="8:59:19.077"/>
+		<NavPoint Id="hix00055" Begin="8:59:22.330"/>
+		<NavPoint Id="hix00056" Begin="9:09:45.389"/>
+		<NavPoint Id="hix00056" Begin="9:09:51.466"/>
+		<NavPoint Id="hix00057" Begin="9:16:34.432"/>
+		<NavPoint Id="hix00057" Begin="9:16:43.965"/>
+		<NavPoint Id="hix00058" Begin="9:24:10.031"/>
+		<NavPoint Id="hix00058" Begin="9:24:10.882"/>
+		<NavPoint Id="hix00059" Begin="9:32:06.110"/>
+		<NavPoint Id="hix00059" Begin="9:32:08.886"/>
+		<NavPoint Id="hix00060" Begin="9:41:36.091"/>
+		<NavPoint Id="hix00060" Begin="9:41:42.891"/>
+		<NavPoint Id="hix00061" Begin="9:44:46.100"/>
+		<NavPoint Id="hix00061" Begin="9:44:49.878"/>
+		<NavPoint Id="hix00062" Begin="9:58:47.011"/>
+		<NavPoint Id="hix00062" Begin="9:58:52.589"/>
+		<NavPoint Id="hix00063" Begin="10:10:55.630"/>
+		<NavPoint Id="hix00063" Begin="10:11:00.204"/>
+		<NavPoint Id="hix00064" Begin="10:24:36.224"/>
+		<NavPoint Id="hix00064" Begin="10:24:43.120"/>
+		<NavPoint Id="hix00042" Begin="10:40:39.319"/>
+		<NavPoint Id="hix00042" Begin="10:40:44.341"/>
+		<NavPoint Id="hix00065" Begin="10:43:54.599"/>
+		<NavPoint Id="hix00065" Begin="10:43:57.389"/>
+		<NavPoint Id="hix00066" Begin="11:04:21.403"/>
+		<NavPoint Id="hix00066" Begin="11:04:27.268"/>
+		<NavPoint Id="hix00067" Begin="11:13:49.387"/>
+		<NavPoint Id="hix00067" Begin="11:13:55.445"/>
+		<NavPoint Id="hix00068" Begin="11:15:56.981"/>
+		<NavPoint Id="hix00068" Begin="11:16:03.913"/>
+		<NavPoint Id="hix00069" Begin="11:29:05.160"/>
+		<NavPoint Id="hix00069" Begin="11:29:09.165"/>
+		<NavPoint Id="hix00070" Begin="11:37:50.164"/>
+		<NavPoint Id="hix00070" Begin="11:37:53.650"/>
+		<NavPoint Id="hix00071" Begin="11:57:10.303"/>
+		<NavPoint Id="hix00071" Begin="11:57:16.066"/>
+		<NavPoint Id="hix00072" Begin="12:00:46.597"/>
+		<NavPoint Id="hix00072" Begin="12:00:50.837"/>
+		<NavPoint Id="hix00073" Begin="12:33:50.325"/>
+		<NavPoint Id="hix00073" Begin="12:33:53.304"/>
+		<NavPoint Id="hix00074" Begin="12:51:57.066"/>
+		<NavPoint Id="hix00074" Begin="12:52:02.444"/>
+		<NavPoint Id="hix00075" Begin="13:00:17.015"/>
+		<NavPoint Id="hix00075" Begin="13:00:22.179"/>
+		<NavPoint Id="hix00076" Begin="13:03:50.778"/>
+		<NavPoint Id="hix00076" Begin="13:03:57.192"/>
+		<NavPoint Id="hix00077" Begin="13:13:00.882"/>
+		<NavPoint Id="hix00077" Begin="13:13:06.049"/>
+		<NavPoint Id="hix00078" Begin="13:27:25.710"/>
+		<NavPoint Id="hix00078" Begin="13:27:29.742"/>
+		<NavPoint Id="hix00079" Begin="13:39:38.230"/>
+		<NavPoint Id="hix00079" Begin="13:39:43.058"/>
+		<NavPoint Id="hix00080" Begin="13:57:22.424"/>
+		<NavPoint Id="hix00080" Begin="13:57:26.136"/>
+		<NavPoint Id="hix00082" Begin="14:01:33.966"/>
+		<NavPoint Id="hix00082" Begin="14:01:40.123"/>
+		<NavPoint Id="hix00083" Begin="14:12:03.343"/>
+		<NavPoint Id="hix00083" Begin="14:12:07.610"/>
+		<NavPoint Id="hix00084" Begin="14:36:29.869"/>
+		<NavPoint Id="hix00084" Begin="14:36:30.725"/>
+		<NavPoint Id="hix00085" Begin="14:41:15.150"/>
+		<NavPoint Id="hix00085" Begin="14:41:21.237"/>
+		<NavPoint Id="hix00086" Begin="14:52:06.819"/>
+		<NavPoint Id="hix00086" Begin="14:52:10.289"/>
+		<NavPoint Id="hix00087" Begin="14:56:03.942"/>
+		<NavPoint Id="hix00087" Begin="14:56:07.645"/>
+		<NavPoint Id="hix00088" Begin="15:17:55.777"/>
+		<NavPoint Id="hix00088" Begin="15:17:58.582"/>
+		<NavPoint Id="hix00089" Begin="15:42:03.588"/>
+		<NavPoint Id="hix00089" Begin="15:42:07.914"/>
+		<NavPoint Id="hix00090" Begin="16:01:03.874"/>
+		<NavPoint Id="hix00090" Begin="16:01:08.257"/>
+		<NavPoint Id="hix00091" Begin="16:31:07.554"/>
+		<NavPoint Id="hix00091" Begin="16:31:13.919"/>
+		<NavPoint Id="hix00092" Begin="16:37:24.879"/>
+		<NavPoint Id="hix00092" Begin="16:37:30.059"/>
+		<NavPoint Id="hix00093" Begin="16:41:51.073"/>
+		<NavPoint Id="hix00093" Begin="16:41:56.455"/>
+		<NavPoint Id="hix00094" Begin="16:59:03.247"/>
+		<NavPoint Id="hix00094" Begin="16:59:08.121"/>
+		<NavPoint Id="hix00095" Begin="17:36:23.021"/>
+		<NavPoint Id="hix00095" Begin="17:36:26.523"/>
+		<NavPoint Id="hix00096" Begin="18:05:13.280"/>
+		<NavPoint Id="hix00096" Begin="18:05:17.619"/>
+		<NavPoint Id="hix00097" Begin="18:27:24.481"/>
+		<NavPoint Id="hix00097" Begin="18:27:30.191"/>
+		<NavPoint Id="hix00098" Begin="18:39:10.647"/>
+		<NavPoint Id="hix00098" Begin="18:39:13.940"/>
+		<NavPoint Id="hix00099" Begin="18:48:07.586"/>
+		<NavPoint Id="hix00099" Begin="18:48:12.614"/>
+		<NavPoint Id="hix00100" Begin="19:04:53.103"/>
+		<NavPoint Id="hix00100" Begin="19:04:57.808"/>
+		<NavPoint Id="hix00101" Begin="20:00:16.994"/>
+		<NavPoint Id="hix00101" Begin="20:00:21.427"/>
+		<NavPoint Id="hix00102" Begin="20:29:06.022"/>
+		<NavPoint Id="hix00102" Begin="20:29:10.424"/>
+		<NavPoint Id="hix00103" Begin="21:01:29.718"/>
+		<NavPoint Id="hix00103" Begin="21:01:35.788"/>
+		<NavPoint Id="hix00104" Begin="21:09:03.492"/>
+		<NavPoint Id="hix00104" Begin="21:09:03.592"/>
+		<NavPoint Id="hix00105" Begin="21:09:03.692"/>
+		<NavPoint Id="hix00105" Begin="21:09:06.124"/>
+		<NavPoint Id="hix00106" Begin="21:25:30.889"/>
+		<NavPoint Id="hix00106" Begin="21:25:36.096"/>
+		<NavPoint Id="hix00107" Begin="22:02:28.326"/>
+		<NavPoint Id="hix00107" Begin="22:02:35.100"/>
+		<NavPoint Id="hix00081" Begin="22:02:35.710"/>
+		<NavPoint Id="hix00081" Begin="22:02:43.163"/>
+		<NavPoint Id="hix00108" Begin="22:04:43.606"/>
+		<NavPoint Id="hix00108" Begin="22:04:46.066"/>
+		<NavPoint Id="hix00109" Begin="22:07:57.006"/>
+		<NavPoint Id="hix00109" Begin="22:08:01.414"/>
+		<NavPoint Id="hix00110" Begin="22:09:57.379"/>
+		<NavPoint Id="hix00110" Begin="22:10:02.641"/>
+		<NavPoint Id="hix00111" Begin="22:11:31.885"/>
+		<NavPoint Id="hix00111" Begin="22:11:35.413"/>
+		<NavPoint Id="hix00112" Begin="22:11:35.833"/>
+		<NavPoint Id="hix00112" Begin="22:11:38.446"/>
+		<NavPoint Id="hix00113" Begin="22:12:35.369"/>
+		<NavPoint Id="hix00113" Begin="22:12:36.791"/>
+		<NavPoint Id="hix00114" Begin="22:13:01.074"/>
+		<NavPoint Id="hix00114" Begin="22:13:01.872"/>
+		<NavPoint Id="hix00115" Begin="22:14:25.990"/>
+		<NavPoint Id="hix00115" Begin="22:14:27.637"/>
+		<NavPoint Id="hix00116" Begin="22:16:03.886"/>
+		<NavPoint Id="hix00116" Begin="22:16:10.322"/>
+		<NavPoint Id="hix00117" Begin="22:17:44.591"/>
+		<NavPoint Id="hix00117" Begin="22:17:45.628"/>
+		<NavPoint Id="hix00118" Begin="22:20:12.503"/>
+		<NavPoint Id="hix00118" Begin="22:20:13.757"/>
+		<NavPoint Id="hix00119" Begin="22:22:12.667"/>
+		<NavPoint Id="hix00119" Begin="22:22:13.967"/>
+		<NavPoint Id="hix00120" Begin="23:01:24.826"/>
+		<NavPoint Id="hix00120" Begin="23:01:32.781" End="23:01:34.703"/>
+	</NavPoints>
+	<Config Name="Config">
+		<BookExport>
+			<Z3986 SplitLevel="1" AudioFormat="AMR-WBP" AudioEncoding="Mono" WAVCopy="1"/>
+		</BookExport>
+	</Config>
+</Session>

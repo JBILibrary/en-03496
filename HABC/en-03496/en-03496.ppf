@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE package PUBLIC "+//ISBN 0-9673008-1-9//DTD OEB 1.0.1 Package//EN" "oebpkg101.dtd">
+<package xmlns="http://openebook.org/namespaces/oeb-package/1.0/" unique-identifier="uid">
+	<metadata>
+		<dc-metadata xmlns:dc="http://purl.org/dc/elements/1.0/">
+			<dc:Title>Trends and Issues in Jewish Social Welfare in the United States 1899-1958</dc:Title>
+			<dc:Creator>Various</dc:Creator>
+			<dc:Publisher>JBI International</dc:Publisher>
+			<dc:Format>ANSI/NISO Z39.86-2002</dc:Format>
+			<dc:Language>EN-US</dc:Language>
+			<dc:Rights>Further reproduction or distribution in other than a specialized format is prohibited</dc:Rights>
+			<dc:Identifier id="uid" scheme="DTB">us-jbi-en-03496</dc:Identifier>
+			<dc:Date>2018-02</dc:Date>
+		</dc-metadata>
+		<x-metadata>
+			<meta content="" name="dtb:sourceDate"/>
+			<meta content="" name="dtb:sourcePublisher"/>
+			<meta content="" name="dtb:sourceRights"/>
+			<meta content="audioNCX" name="dtb:multimediaType"/>
+			<meta content="xıoɴʏᴄ" name="dtb:producer"/>
+			<meta content="2018-02-07" name="dtb:producedDate"/>
+			<meta content="0" name="dtb:revision"/>
+			<meta content="2018-02-07" name="dtb:revisionDate"/>
+			<meta content="N/A" name="dtb:narrator"/>
+			<meta content="3gpp" name="dtb:audioFormat"/>
+			<meta content="" name="nls:recordingAgency"/>
+			<meta content="" name="nls:labelPrintLargeTitle"/>
+			<meta content="" name="nls:labelPrintTitle"/>
+			<meta content="" name="nls:labelPrintLargeAuthor"/>
+			<meta content="" name="nls:labelPrintAuthor"/>
+			<meta content="" name="nls:labelPrintCopyright"/>
+			<meta content="" name="nls:labelBookNumber"/>
+			<meta content="" name="nls:labelPrintSequence"/>
+			<meta content="" name="nls:labelBrailleTitle"/>
+			<meta content="" name="nls:labelBrailleAuthor"/>
+			<meta content="" name="nls:labelBrailleSequence"/>
+			<meta content="" name="nls:containerLabelLanguage"/>
+			<meta content="" name="nls:containerLabelTitle"/>
+			<meta content="" name="nls:containerLabelAuthor"/>
+			<meta content="" name="nls:containerLabelDewey"/>
+			<meta content="" name="nls:containerLabelBrailleTitle"/>
+			<meta content="" name="nls:containerLabelBrailleAuthor"/>
+			<meta content="23:01:34.703" name="dtb:totalTime"/>
+			<meta content="452786d5faa93ecf3a9c9a5c8bc241a7" name="nls:sourceMD5"/>
+			<meta content="2005-1" name="pdtb2:specVersion"/>
+		</x-metadata>
+	</metadata>
+	<manifest>
+		<item href="en-03496.opf" id="opf" media-type="text/xml"/>
+		<item href="en-03496.ppf" id="ppf" media-type="text/xml"/>
+		<item href="us-jbi-en-03496.ao" id="ao" media-type="application/x-pdtbauth+xml"/>
+		<item href="en-03496-0001.3gp" id="aud1" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0010.3gp" id="aud10" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0100.3gp" id="aud100" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0101.3gp" id="aud101" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0102.3gp" id="aud102" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0103.3gp" id="aud103" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0104.3gp" id="aud104" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0105.3gp" id="aud105" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0106.3gp" id="aud106" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0107.3gp" id="aud107" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0108.3gp" id="aud108" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0109.3gp" id="aud109" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0011.3gp" id="aud11" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0110.3gp" id="aud110" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0111.3gp" id="aud111" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0112.3gp" id="aud112" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0113.3gp" id="aud113" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0114.3gp" id="aud114" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0115.3gp" id="aud115" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0116.3gp" id="aud116" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0117.3gp" id="aud117" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0012.3gp" id="aud12" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0013.3gp" id="aud13" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0014.3gp" id="aud14" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0015.3gp" id="aud15" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0016.3gp" id="aud16" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0017.3gp" id="aud17" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0018.3gp" id="aud18" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0019.3gp" id="aud19" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0002.3gp" id="aud2" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0020.3gp" id="aud20" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0021.3gp" id="aud21" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0022.3gp" id="aud22" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0023.3gp" id="aud23" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0024.3gp" id="aud24" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0025.3gp" id="aud25" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0026.3gp" id="aud26" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0027.3gp" id="aud27" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0028.3gp" id="aud28" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0029.3gp" id="aud29" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0003.3gp" id="aud3" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0030.3gp" id="aud30" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0031.3gp" id="aud31" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0032.3gp" id="aud32" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0033.3gp" id="aud33" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0034.3gp" id="aud34" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0035.3gp" id="aud35" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0036.3gp" id="aud36" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0037.3gp" id="aud37" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0038.3gp" id="aud38" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0039.3gp" id="aud39" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0004.3gp" id="aud4" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0040.3gp" id="aud40" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0041.3gp" id="aud41" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0042.3gp" id="aud42" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0043.3gp" id="aud43" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0044.3gp" id="aud44" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0045.3gp" id="aud45" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0046.3gp" id="aud46" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0047.3gp" id="aud47" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0048.3gp" id="aud48" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0049.3gp" id="aud49" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0005.3gp" id="aud5" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0050.3gp" id="aud50" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0051.3gp" id="aud51" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0052.3gp" id="aud52" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0053.3gp" id="aud53" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0054.3gp" id="aud54" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0055.3gp" id="aud55" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0056.3gp" id="aud56" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0057.3gp" id="aud57" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0058.3gp" id="aud58" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0059.3gp" id="aud59" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0006.3gp" id="aud6" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0060.3gp" id="aud60" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0061.3gp" id="aud61" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0062.3gp" id="aud62" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0063.3gp" id="aud63" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0064.3gp" id="aud64" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0065.3gp" id="aud65" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0066.3gp" id="aud66" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0067.3gp" id="aud67" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0068.3gp" id="aud68" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0069.3gp" id="aud69" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0007.3gp" id="aud7" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0070.3gp" id="aud70" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0071.3gp" id="aud71" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0072.3gp" id="aud72" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0073.3gp" id="aud73" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0074.3gp" id="aud74" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0075.3gp" id="aud75" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0076.3gp" id="aud76" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0077.3gp" id="aud77" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0078.3gp" id="aud78" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0079.3gp" id="aud79" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0008.3gp" id="aud8" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0080.3gp" id="aud80" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0081.3gp" id="aud81" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0082.3gp" id="aud82" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0083.3gp" id="aud83" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0084.3gp" id="aud84" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0085.3gp" id="aud85" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0086.3gp" id="aud86" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0087.3gp" id="aud87" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0088.3gp" id="aud88" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0089.3gp" id="aud89" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0009.3gp" id="aud9" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0090.3gp" id="aud90" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0091.3gp" id="aud91" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0092.3gp" id="aud92" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0093.3gp" id="aud93" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0094.3gp" id="aud94" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0095.3gp" id="aud95" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0096.3gp" id="aud96" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0097.3gp" id="aud97" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0098.3gp" id="aud98" media-type="application/x-pdtb3gpp"/>
+		<item href="en-03496-0099.3gp" id="aud99" media-type="application/x-pdtb3gpp"/>
+		<item href="protected.mp3" id="audio_pdtb_protected" media-type="audio/mp3"/>
+		<item href="en-03496.ncx" id="facade_ncx" media-type="text/xml"/>
+		<item href="en-03496hdgs.3gp" id="hdgs" media-type="audio/3gpp"/>
+		<item href="en-03496.pncx" id="ncx" media-type="application/x-pdtbncx+xml"/>
+		<item href="ncx110.dtd" id="ncx_dtd" media-type="text/xml"/>
+		<item href="oebpkg101.dtd" id="pkgdtd" media-type="text/xml"/>
+		<item href="oeb1.ent" id="pkgent" media-type="text/xml"/>
+		<item href="en-03496.smil" id="smil00" media-type="application/x-pdtbsmil+xml"/>
+		<item href="dtbsmil110.dtd" id="smil_dtd" media-type="text/xml"/>
+		<item href="pdtb_protected.smil" id="smil_pdtb_protected" media-type="application/smil"/>
+	</manifest>
+	<spine>
+		<itemref idref="smil00"/>
+	</spine>
+</package>
